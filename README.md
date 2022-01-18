@@ -1,5 +1,4 @@
-# Summer-2022-Data-Science-Intern-Challenge
-Data Science Challenge for Shopify
+# Summer 2022 Data Science Intern Challenge
 By: Tristan Ro
 
 Question 1 
